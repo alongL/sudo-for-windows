@@ -13,3 +13,9 @@ Just use "sudo  commandA  commandB ..."
 
 
 
+Reference:
+https://www.cnblogs.com/MrYuan/p/5689235.html
+
+https://stackoverflow.com/questions/1894967/how-to-request-administrator-access-inside-a-batch-file
+
+http://www.nssm.cc/
